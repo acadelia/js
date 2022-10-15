@@ -1,5 +1,6 @@
-function myFirstApp(name, age) {
-alert(`hello, my name is ${name} and its my first app`);
+function myFirstApp(name, age) { 
+alert(`hello, my name is ${name} and its my first app`); 
+}
 function showSkills() {
     let skills = ['html', 'css', 'js'];
 console.log('i know ' + skills );
